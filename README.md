@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## welcome to jyq's planet
 
 You can use the [editor on GitHub](https://github.com/yaqijiao/yaqijiao.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
